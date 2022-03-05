@@ -1,0 +1,17 @@
+instruction 01 : create parking lot 6 
+instruction 02 : park KA-01-HH-1234 White 
+instruction 03 : park KA-01-HH-9999 White
+instruction 04 : park KA-01-BB-0001 Black
+instruction 05 : park KA-01-HH-7777 Red.
+instruction 06 : park KA-01-HH-2701 Blue
+instruction 07 : park KA-01-HH-3141 Black.
+instruction 08 : leave 4
+instruction 09 : status
+instruction 10 : park KA-01-P-333 White
+instruction 11 : leave 1
+instruction 12 : Details of cars with colour White
+instruction 13 : Details of cars with registration no KA-01-BB-0001
+instruction 14 : Details of cars with colour white and registration no KA-01-HH-1234
+instruction 15 : Details of cars which status is parked
+instruction 16 : Details of cars which status is no car parked
+instruction 17 : status
